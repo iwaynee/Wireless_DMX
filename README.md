@@ -16,3 +16,8 @@ Unfortunatly I had to do the Documentation in German. But the Code is fully comm
 
 <b>PCB:</b><br>
 The PCB Layout is available in Mentor Graphics or as raw Gerber Data. Please Message me for more Informations.
+
+<b>Code:</b><br>
+You will need to whole folder "Librarys" and one of the folder Transmitter/Receiver to get it working.
+
+The files are finished Atmel Studio 7.0 projects and the source code is written in C.
