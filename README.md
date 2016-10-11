@@ -14,5 +14,5 @@ Unfortunatly I had to do the Documentation in German. But the Code is fully comm
 - Adressable Transmitter/Receiver
 - State LED
 
-<b>PCB:</b>
+<b>PCB:</b><br>
 The PCB Layout is available in Mentor Graphics or as raw Gerber Data. Please Message me for more Informations.
